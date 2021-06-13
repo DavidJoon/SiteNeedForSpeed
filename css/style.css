@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.carousel-caption{
+    text-shadow: 1px 1px black;
+    margin-bottom: 100px;
+}
+.card{
+    float: left;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(206, 206, 211);
+    border-color: red;
+    color: black;
+}
+footer{
+	background-color: white;
+	color:black;
+	text-align: center;
+	clear: both; 
+	padding: 5px 0;
+}
+.list-group{
+    text-align: center;
+    margin-bottom: 20px;
+    color: red;
+}
+.conteudo{
+    text-align: center;
+	padding-top: 10px;
+	padding-right: 10px;
+}
